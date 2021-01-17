@@ -13,12 +13,12 @@ author: Thang Tran
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#   Author's home: "https://deanattali.com"
+navbar-links:
+  About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://thangtv611.github.io"
 
 # --- Logo --- #
 
@@ -52,7 +52,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: (+84) 392597867
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Tôi thích được chia sẽ và được lắng nghe.
+# rss-description: Tôi thích được chia sẽ và được lắng nghe.
 
 # --- General options --- #
 
